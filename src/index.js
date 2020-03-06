@@ -1,1 +1,3 @@
-console.log('Holaaaaaa')
+import router from './routes'
+
+window.addEventListener('load', router)
